@@ -1,3 +1,4 @@
-# 50DaysOfJs
+# 50DaysOfJs :grinning:😀
 This Repositary includes 50 Days JavaScript Challenges ...
-#Day1 Generating Random Number By Using JavaScript ...
+#Day1 Generating Random Number!
+#Day2 Reversing A String!
