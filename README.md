@@ -2,7 +2,7 @@
 <br/><br/>
 <h2>This Repositary includes 50 Days JavaScript Challenges ...🙂</h2>
 <br/><br/>
-<ul>
+<ul color = "green">
 #Day1 Generating Random Number!🙂
 <br/><br/>
 #Day2 Reversing A String!🙂
