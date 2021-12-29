@@ -2,6 +2,7 @@
 <br/><br/>
 <h2>This Repositary includes 50 Days JavaScript Challenges ...🙂</h2>
 <br/><br/>
+<ul>
 #Day1 Generating Random Number!🙂
 <br/><br/>
 #Day2 Reversing A String!🙂
@@ -14,3 +15,4 @@
 <br/><br/>
 #Day6 Truncate a string to a certain number of words!🙂
 <br/><br/>
+</ul>
