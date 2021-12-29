@@ -4,13 +4,13 @@
 <br/><br/>
 <h3>#Day1 Generating Random Number!🙂</h3>
 <br/><br/>
-#Day2 Reversing A String!🙂
+<h3>#Day2 Reversing A String!🙂</h3>
 <br/><br/>
-#Day3 Reversing A Given Integer!🙂
+<h3>#Day3 Reversing A Given Integer!🙂</h3>
 <br/><br/>
-#Day4 Converting the time input given in 12 hours format to 24 hours format!🙂
+<h3>#Day4 Converting the time input given in 12 hours format to 24 hours format!🙂</h3>
 <br/><br/>
-#Day5 Accepting a string argument and returns the count of characters between the first and last character!🙂
+<h3>#Day5 Accepting a string argument and returns the count of characters between the first and last character!🙂</h3>
 <br/><br/>
-#Day6 Truncate a string to a certain number of words!🙂
+<h3>#Day6 Truncate a string to a certain number of words!🙂</h3>
 <br/><br/>
