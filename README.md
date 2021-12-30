@@ -15,4 +15,6 @@
 <br/><br/>
 #Day6 Truncate a string to a certain number of words!🙂
 <br/><br/>
+#Day7 Createing a regular expression to validate if the given input is valid Indian mobile number or not!🙂
+<br/><br/>
 </ul>
