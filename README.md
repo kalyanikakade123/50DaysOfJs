@@ -20,4 +20,6 @@
 #Day8 Accepting two valid dates and returns the difference between them as number of days!🙂
 <br/><br/>
 #Day9 Checking if an object is empty or not in javaScript?🙂
+<br/><br/>
+#Day10 Removing array element based on object property!🙂
 </ul>
