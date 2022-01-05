@@ -25,4 +25,8 @@
 <br/><br/>
 #Day11 Returning the N-th value of the Fibonacci sequence!🙂
 <br/><br/>
+#Day12 Given a number from 0 to 999,999,999,999, spell out that number in English!🙂
+<br/><br/>
+#Day13 Converting given seconds to space age on all planets of our solar system!🙂
+<br/><br/>
 </ul>
