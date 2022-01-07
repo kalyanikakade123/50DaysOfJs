@@ -30,4 +30,6 @@
 #Day13 Converting given seconds to space age on all planets of our solar system!🙂
 <br/><br/>
 #Day14 Converting given array of digits of a base to another asked base!🙂
+<br/><br/>
+#Day15 Determine if a sentence is a pangram!🙂
 </ul>
