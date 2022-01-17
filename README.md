@@ -49,5 +49,7 @@
 <br/><br/>
 #Day23 Equal Sides Of An Array!🙂
 <br/><br/>
-#Day24 Writing Number in Expanded Form!!🙂
+#Day24 Writing Number in Expanded Form!🙂
+<br/><br/>
+#Day25 Stop gninnipS My sdroW!🙂
 </ul>
