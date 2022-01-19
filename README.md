@@ -54,4 +54,6 @@
 #Day25 Stop gninnipS My sdroW!🙂
 <br/><br/>
 #Day26 Finding the odd integer Index!🙂
+<br/><br/>
+#Day27 Counting Vowel In a String!🙂
 </ul>
