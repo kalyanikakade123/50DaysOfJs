@@ -56,4 +56,6 @@
 #Day26 Finding the odd integer Index!🙂
 <br/><br/>
 #Day27 Counting Vowel In a String!🙂
+<br/><br/>
+#Day28 Coverting a string into a WeIrD StRiNg CaSe!🙂
 </ul>
