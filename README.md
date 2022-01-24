@@ -59,4 +59,11 @@
   <br/><br/>
   #Day28 Coverting a string into a WeIrD StRiNg CaSe!🙂
   <br/><br/>
+  #Day29 Mumbling!🙂
+  <br/><br/>
+  #Day30 Mexican Wave!🙂
+  <br/><br/> 
+  #Day31 Finding the Factorial of a Number!🙂
+  <br/><br/>
+  #Day32 Finding the greatest common divisor (gcd) of two positive numbers!🙂
 </ul>
