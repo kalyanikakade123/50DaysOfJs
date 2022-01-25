@@ -65,5 +65,7 @@
   <br/><br/> 
   #Day31 Finding the Factorial of a Number!🙂
   <br/><br/>
-  #Day32 Finding the greatest common divisor (gcd) of two positive numbers!🙂
+  #Day32 A program to find the greatest common divisor (gcd) of two positive numbers!🙂
+  <br/><br/>
+  #Day33 A program to print unique values from an array!🙂
 </ul>
