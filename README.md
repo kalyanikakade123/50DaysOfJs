@@ -72,4 +72,6 @@
   #Day34 A program to find the most frequent item of an array!🙂
   <br/><br/>
   #Day35 A function to get nth largest element from an unsorted array!🙂
+  <br/><br/>
+  #Day36 Rna Transcription!🙂
 </ul>
