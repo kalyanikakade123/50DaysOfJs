@@ -80,4 +80,6 @@
   #Day38 Luhn algorithm!🙂
   <br/><br/>
   #Day39 Mixed Juices!🙂
+  <br/><br/>
+  #Day40 Vehicle Purchase!🙂
 </ul>
