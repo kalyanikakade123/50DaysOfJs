@@ -86,4 +86,6 @@
   #Day41 Categorize New Member!🙂
   <br/><br/>
   #Day42 Sum of two lowest positive integers!🙂
+  <br/><br/>
+  #Day43 Highest Scoring Word!🙂
 </ul>
