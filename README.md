@@ -88,4 +88,6 @@
   #Day42 Sum of two lowest positive integers!🙂
   <br/><br/>
   #Day43 Highest Scoring Word!🙂
+  <br/><br/>
+  #Day44 Count the divisors of a number!🙂
 </ul>
