@@ -90,4 +90,6 @@
   #Day43 Highest Scoring Word!🙂
   <br/><br/>
   #Day44 Count the divisors of a number!🙂
+  <br/><br/>
+  #Day45 Find The Parity Outlier!🙂
 </ul>
