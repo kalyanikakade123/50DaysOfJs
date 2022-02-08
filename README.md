@@ -94,4 +94,6 @@
   #Day45 Find The Parity Outlier!🙂
   <br/><br/>
   #Day46 A Needle in the Haystack!🙂
+  <br/><br/>
+  #Day47 Isograms!🙂
 </ul>
