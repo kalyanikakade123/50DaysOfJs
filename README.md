@@ -98,4 +98,6 @@
   #Day47 Isograms!🙂
   <br/><br/>
   #Day48 Human readable duration format!🙂
+  <br/><br/>
+  #Day49 Is this a triangle?🙂
 </ul>
