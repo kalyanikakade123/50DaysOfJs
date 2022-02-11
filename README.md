@@ -1,7 +1,9 @@
 # 50DaysOfJs :grinning:😀
+
 <br/><br/>
-<h2>This Repositary includes 50 Days JavaScript Challenges ...🙂</h2>
+<h2>This Repository includes my Solutions on 50 Days JavaScript Challenges By Codedamn ...🙂</h2>
 <br/><br/>
+
   <ul>
   #Day1 Generating Random Number!🙂
   <br/><br/>
@@ -102,4 +104,5 @@
   #Day49 Is this a triangle?🙂
   <br/><br/>
   #Day50 Get the Middle Character!🙂
+  
 </ul>
