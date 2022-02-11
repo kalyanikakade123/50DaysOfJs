@@ -1,7 +1,7 @@
 # 50DaysOfJs :grinning:😀
 
 <br/><br/>
-<h2>This Repository includes my Solutions on 50 Days JavaScript Challenges By Codedamn ...🙂</h2>
+<h2 align = "center">This Repository includes my Solutions on 50 Days JavaScript Challenges By Codedamn ...🙂</h2>
 <br/><br/>
 
   <ul>
@@ -106,3 +106,5 @@
   #Day50 Get the Middle Character!🙂
   
 </ul>
+
+<h3 align = "center" >Give a Star 🎇 to Repository if you like.</h3>
